@@ -54,7 +54,7 @@ index_server <- function(id){
         # render map here ====
         output$observations_map <- renderLeaflet({
             tryCatch(
-            expr = {            datafile = datasest() #%>% head(50)
+            expr = {            datafile = datasest() %>% head(50)
             leaflet(data = datafile ) %>%
                 addProviderTiles(providers$Esri.NatGeoWorldMap) %>%
                 addTiles() %>%
