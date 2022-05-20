@@ -1,10 +1,9 @@
 # Bio Diversity Dashboard
 
-<<<<<<< HEAD
-Live dashboard is available [here](https://georgeapp.shinyapps.io/appsilon/)
-=======
 
->>>>>>> 22f91713e331dca6028294afd2ce46ad20a94003
+Live dashboard is available 
+
+
 
 This dashboard contains a single view page with:
 
