@@ -1,1 +1,1 @@
-shiny::shinyApp()
+shiny::runApp()

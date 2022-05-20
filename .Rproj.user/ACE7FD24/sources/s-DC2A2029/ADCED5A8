@@ -1,26 +1,26 @@
 {
-    "id": "F3223902",
+    "id": "ADCED5A8",
     "path": "E:/New folder/appsilon/functions/widgets.R",
     "project_path": "functions/widgets.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1653033133665.0,
+    "created": 1653035118942.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "75,11",
-        "scrollLine": "71"
+        "cursorPosition": "75,0",
+        "scrollLine": "68"
     },
-    "folds": "0|69|18|0|\n22|59|38|0|\n41|42|52|0|\n75|29|77|0|\n80|32|91|0|\n94|37|110|0|\n",
+    "folds": "",
     "lastKnownWriteTime": 1653033288,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653033288063,
+    "last_content_update": 1653033288,
     "read_only": false,
     "read_only_alternatives": []
 }

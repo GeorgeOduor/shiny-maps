@@ -1,0 +1,14 @@
+name: appsilon
+title: appsilon
+username:
+account: georgeapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6339922
+bundleId: 5926122
+url: https://georgeapp.shinyapps.io/appsilon/
+when: 1653035053.26056
+lastSyncTime: 1653035053.26056
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.html|README.md

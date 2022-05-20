@@ -27,6 +27,11 @@ index_UI <- function(id) {
                        )
                    )
             )
+        ),
+        fluidRow(
+            panel(
+                HTML("&copy; 2022 George: Bio diversity dashboard")
+            )
         )
     )
 }
@@ -54,7 +59,7 @@ index_server <- function(id){
         # render map here ====
         output$observations_map <- renderLeaflet({
             tryCatch(
-            expr = {            datafile = datasest() %>% head(50)
+            expr = {datafile = datasest()  
             leaflet(data = datafile ) %>%
                 addProviderTiles(providers$Esri.NatGeoWorldMap) %>%
                 addTiles() %>%
