@@ -1,0 +1,26 @@
+{
+    "id": "BA69C91A",
+    "path": "E:/New folder/appsilon/modules/index.R",
+    "project_path": "modules/index.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1652975671512.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,18",
+        "scrollLine": "0"
+    },
+    "folds": "42|37|47|8|\n50|38|52|8|\n79|48|87|8|\n82|32|84|16|\n",
+    "lastKnownWriteTime": 1653030125,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653030342208,
+    "read_only": false,
+    "read_only_alternatives": []
+}

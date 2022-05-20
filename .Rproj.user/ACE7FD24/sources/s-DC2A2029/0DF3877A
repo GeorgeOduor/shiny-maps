@@ -1,0 +1,26 @@
+{
+    "id": "0DF3877A",
+    "path": "E:/New folder/appsilon/functions/widgets.R",
+    "project_path": "functions/widgets.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1652975618249.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "76,25",
+        "scrollLine": "68"
+    },
+    "folds": "0|69|18|0|\n22|59|38|0|\n94|37|110|0|\n",
+    "lastKnownWriteTime": 1653012242,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653013496856,
+    "read_only": false,
+    "read_only_alternatives": []
+}
