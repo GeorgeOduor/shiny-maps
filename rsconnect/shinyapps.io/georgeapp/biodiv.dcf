@@ -1,0 +1,13 @@
+name: biodiv
+title: biodiv
+username:
+account: georgeapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7381751
+bundleId: 6428006
+url: https://georgeapp.shinyapps.io/biodiv/
+when: 1666376711.96673
+lastSyncTime: 1666376711.96673
+asMultiple: FALSE
+asStatic: FALSE

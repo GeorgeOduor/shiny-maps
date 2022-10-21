@@ -2,7 +2,7 @@
 # library(dplyr)
 # library(leafgl)
 # library(sf)
-# leaflet(options = leafletOptions(minZoom = 0, maxZoom = 18))
+# # leaflet(options = leafletOptions(minZoom = 0, maxZoom = 18))
 # pop_ups <- function(ven,sci,kng,lnk,lfstage,indv,img) {
 #   content <- glue::glue("<table>
 #     <tr><h3><a href='{lnk}'>Details</a></h3></tr>
@@ -51,15 +51,15 @@
 # ")
 #   return(content)
 # }
-# # data = readxl::read_excel("C:/Users/George Oduor/Downloads/biodiversity-data/biodiversity-data/bio_div.xlsx")%>%
-# #   mutate(locality = gsub("Poland - |Poland- |Poland / ","",locality),
-# #          details = pop_ups(ven = vernacularName,sci = scientificName,
-# #                            kng = kingdom,lnk = references,
-# #                            lfstage = lifeStage,indv = individualCount,
-# #                            img = accessURI))
-# # saveRDS(data,file = "data/data.Rds")
-# # dataf = readRDS("data/data.Rds")
-#
-#
-#
-#
+# data2 = readxl::read_excel("C:/Users/George Oduor/Downloads/biodiversity-data/bio_div.xlsx")%>%
+#   mutate(locality = gsub("Kenya - |Kenya- |Kenya / ","",locality),
+#          details = pop_ups(ven = vernacularName,sci = scientificName,
+#                            kng = kingdom,lnk = references,
+#                            lfstage = lifeStage,indv = individualCount,
+#                            img = accessURI))
+# saveRDS(data2,file = "data/data1.Rds")
+# dataf = readRDS("data/data.Rds")
+
+
+
+
